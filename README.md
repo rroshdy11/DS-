@@ -1,5 +1,5 @@
 # DS-
-In this problem, you must use C++ STL stack.
+In Q4 problem, you must use C++ STL stack.
 Given an input string of brackets ‘(‘ and ‘)’, square brackets ‘‘ and ‘+’, curly brackets ‘,‘ and ‘-’, and multiple line comment token ‘/’ and ‘/’, 
 check if this string is valid or not.
 A string is considered valid if and only if:
