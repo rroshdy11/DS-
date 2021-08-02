@@ -1,4 +1,18 @@
 # DS-
+In Q3 problem, you should develop a stack class similar to that provided in the C++ STL. You can using
+arrays as an underlying data structure,
+● Your stack class should be template. 
+● The stack class should have the following public interface:
+○ stack() – default constructor.
+○ stack(type value, int intial_size)constructs a stack having
+‘initial_size’ elements whose values are ‘value’.
+○ ~stack() – a destructor to clear the stack and leave no memory leaks.
+○ type& top() – returns the top element by reference. 
+○ void pop() – removes the top element and print it. 
+○ void push(type value) – adds an element to the top of the stack.
+○ int size() – returns the number of elements in the stack.
+●  main function to test all the above.
+__________________________________________________________________________________________
 In Q4 problem, you must use C++ stack class.
 Given an input string of brackets ‘(‘ and ‘)’, square brackets ‘‘ and ‘+’, curly brackets ‘,‘ and ‘-’, and multiple line comment token ‘/’ and ‘/’, 
 check if this string is valid or not.
